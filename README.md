@@ -23,7 +23,7 @@ Dosyalar, öğrenme sırasına göre alfabetik olarak numaralandırılmıştır.
 | **📂 projects/** | Kapsamlı, uçtan uca veri bilimi projeleri. | *Projects* |
 | ↳ `house_price_prediction` | Ev fiyatlarını tahmin eden regresyon projesi. | *Regression* |
 | **📄a_simple_linear_regression.py** | Tek değişkenli basit doğrusal regresyon uygulaması. | *Regression* |
-| **📄b_multiple_linear_regression.py** | Birden fazla bağımsız değişken içeren regresyon analizi. | *Regression* |
+| **📄b_multiple_linear_regression.py**     | Birden fazla bağımsız değişken içeren regresyon analizi. | *Regression* |
 | **📄c_logistic_regression.py** | Sınıflandırma problemleri için Lojistik Regresyon. | *Classification* |
 | **📄d_k_nearest_neighbors.py** | KNN algoritması ile sınıflandırma ve tahmin. | *Classification* |
 | **📄e_cart.py** | Classification and Regression Trees (Karar Ağaçları) uygulaması. | *Trees* |
