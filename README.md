@@ -18,8 +18,8 @@ Projelerde ağırlıklı olarak aşağıdaki araçlar kullanılmıştır:
 
 Dosyalar, öğrenme sırasına göre alfabetik olarak numaralandırılmıştır. Her dosya belirli bir algoritmanın temel uygulamasını içerir.
 
-| Dosya / Klasör | Açıklama | Kategori |
-| :--- | :--- | :--- |
+| Dosya / Klasör                   | Açıklama | Kategori |
+| :---                         | :--- | :--- |
 | **📂 projects/**          | Kapsamlı, uçtan uca veri bilimi projeleri. | *Projects* |
 | ↳ `house_price_prediction`              | Ev fiyatlarını tahmin eden regresyon projesi. | *Regression* |
 | **📄a_simple_linear_regression.py**            | Tek değişkenli basit doğrusal regresyon uygulaması. | *Regression* |
