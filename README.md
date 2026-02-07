@@ -19,14 +19,15 @@ Projelerde ağırlıklı olarak aşağıdaki araçlar kullanılmıştır:
 Dosyalar, öğrenme sırasına göre alfabetik olarak numaralandırılmıştır. Her dosya belirli bir algoritmanın temel uygulamasını içerir.
 
 | Dosya / Klasör                   | Açıklama | Kategori |
-| :---                         | :--- | :--- |
-| **📂 projects/**          | Kapsamlı, uçtan uca veri bilimi projeleri. | *Projects* |
+| :---                          | :--- | :--- |
+| **📂 projects/** | Kapsamlı, uçtan uca veri bilimi projeleri. | *Projects* |
 | ↳ `house_price_prediction`              | Ev fiyatlarını tahmin eden regresyon projesi. | *Regression* |
-| **a_simple_linear_regression.py**            | Tek değişkenli basit doğrusal regresyon uygulaması. | *Regression* |
-| **b_multiple_linear_regression.py**          | Birden fazla bağımsız değişken içeren regresyon analizi. | *Regression* |
-| **c_logistic_regression.py**          | Sınıflandırma problemleri için Lojistik Regresyon. | *Classification* |
-| **d_k_nearest_neighbors.py**          | KNN algoritması ile sınıflandırma ve tahmin. | *Classification* |
-| **e_cart.py**           | Classification and Regression Trees (Karar Ağaçları) uygulaması. | *Trees* |
+| **a_simple_linear_regression.py** | Tek değişkenli basit doğrusal regresyon uygulaması. | *Regression* |
+| **b_multiple_linear_regression.py** | Birden fazla bağımsız değişken içeren regresyon analizi. | *Regression* |
+| **c_logistic_regression.py** | Sınıflandırma problemleri için Lojistik Regresyon. | *Classification* |
+| **d_k_nearest_neighbors.py** | KNN algoritması ile sınıflandırma ve tahmin. | *Classification* |
+| **e_cart.py** | Classification and Regression Trees (Karar Ağaçları) uygulaması. | *Trees* |
+| **f_advanced_trees.py** | Gelişmiş ağaç tabanlı yöntemler (Random Forest, GBM, XGBoost). | *Trees* |
 
 ## 🚀 Öne Çıkan Projeler
 ### 🏠 House Price Prediction Project
@@ -38,7 +39,6 @@ Dosyalar, öğrenme sırasına göre alfabetik olarak numaralandırılmıştır.
   - **Doğrusal Olmayan Modeller:** KNN, SVR
   - **Ağaç Tabanlı Modeller:** Decision Tree (CART), Random Forest
   - **Gelişmiş Boosting Modelleri:** Gradient Boosting (GBM), XGBoost, LightGBM, CatBoost
-
 
 ## 💻 Kurulum ve Kullanım
 
