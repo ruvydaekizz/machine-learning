@@ -27,7 +27,7 @@ Dosyalar, öğrenme sırasına göre alfabetik olarak numaralandırılmıştır.
 | **c_logistic_regression.py** | Sınıflandırma problemleri için Lojistik Regresyon. | *Classification* |
 | **d_k_nearest_neighbors.py** | KNN algoritması ile sınıflandırma ve tahmin. | *Classification* |
 | **e_cart.py** | Classification and Regression Trees (Karar Ağaçları) uygulaması. | *Trees* |
-| **f_advanced_trees.py** | Gelişmiş ağaç tabanlı yöntemler (Random Forest, GBM, XGBoost). | *Trees* |
+| **f_advanced_trees.py** | Gelişmiş ağaç tabanlı yöntemler (Random Forest, GBM, XGBoost, LightGBM, CatBoost). | *Trees* |
 
 ## 🚀 Öne Çıkan Projeler
 ### 🏠 House Price Prediction Project
