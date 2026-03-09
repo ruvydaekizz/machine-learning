@@ -28,6 +28,7 @@ Dosyalar, öğrenme sırasına göre alfabetik olarak numaralandırılmıştır.
 | **d_k_nearest_neighbors.py** | KNN algoritması ile sınıflandırma ve tahmin. | *Classification* |
 | **e_cart.py** | Classification and Regression Trees (Karar Ağaçları) uygulaması. | *Trees* |
 | **f_advanced_trees.py** | Gelişmiş ağaç tabanlı yöntemler (Random Forest, GBM, XGBoost, LightGBM, CatBoost). | *Trees* |
+| **g_dengesiz_veri_seti.ipynb** | Dengesiz veri setleri (imbalanced datasets) üzerinde yapılan analiz ve modelleme çalışmaları. | *Data Processing* |
 
 ## 🚀 Öne Çıkan Projeler
 ### 🏠 House Price Prediction Project
