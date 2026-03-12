@@ -29,6 +29,7 @@ Dosyalar, öğrenme sırasına göre alfabetik olarak numaralandırılmıştır.
 | **e_cart.py** | Classification and Regression Trees (Karar Ağaçları) uygulaması. | *Trees* |
 | **f_advanced_trees.py** | Gelişmiş ağaç tabanlı yöntemler (Random Forest, GBM, XGBoost, LightGBM, CatBoost). | *Trees* |
 | **g_dengesiz_veri_seti.ipynb** | Dengesiz veri setleri (imbalanced datasets) üzerinde yapılan analiz ve modelleme çalışmaları. | *Data Processing* |
+| **h_k_means_unsupervised_learning.py** | K-Means algoritması ile denetimsiz öğrenme (kümeleme) uygulaması. | *Unsupervised Learning* |
 
 ## 🚀 Öne Çıkan Projeler
 ### 🏠 House Price Prediction Project
