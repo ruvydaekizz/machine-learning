@@ -30,6 +30,7 @@ Dosyalar, öğrenme sırasına göre alfabetik olarak numaralandırılmıştır.
 | **f_advanced_trees.py** | Gelişmiş ağaç tabanlı yöntemler (Random Forest, GBM, XGBoost, LightGBM, CatBoost). | *Trees* |
 | **g_dengesiz_veri_seti.ipynb** | Dengesiz veri setleri (imbalanced datasets) üzerinde yapılan analiz ve modelleme çalışmaları. | *Data Processing* |
 | **h_k_means_unsupervised_learning.py** | K-Means algoritması ile denetimsiz öğrenme (kümeleme) uygulaması. | *Unsupervised Learning* |
+| **ı_hierarchical_clustering_unsupervised_learning.py** | Hiyerarşik Kümeleme (Hierarchical Clustering) algoritması ile denetimsiz öğrenme uygulaması. | *Unsupervised Learning* |
 
 ## 🚀 Öne Çıkan Projeler
 ### 🏠 House Price Prediction Project
